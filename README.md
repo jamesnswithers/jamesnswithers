@@ -1,7 +1,5 @@
 ## James Withers
 
----
-
 ## About
 
 - Automation, DevOps, Release, CI/CD
